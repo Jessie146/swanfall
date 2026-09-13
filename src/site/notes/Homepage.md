@@ -6,58 +6,58 @@
 # Swanfall (ᛋᚹᚨᚾᚠᚨᛚᛚ)
 
 > [!column|dataview 4]- [[System/Systems\|Systems]]
->  - [[System/Systems\|Systems]]
-> - [[System/Rarity\|Rarity]]
-> - [[System/Scaling\|Scaling]]
-> - [[System/Quest\|Quest]]
-> - [[System/Overcast\|Overcast]]
-> - [[System/Attribute\|Attribute]]
-> - [[System/Equipment Enhancements\|Equipment Enhancements]]
-> - [[System/Effects\|Effects]]
-> - [[System/Currency\|Currency]]
-> - [[System/Characters\|Characters]]
-> - [[System/Armour\|Armour]]
+>  - [[Subclass\|Subclass]]
 > - [[System/Class\|Class]]
-> - [[Subclass\|Subclass]]
+> - [[System/Armour\|Armour]]
+> - [[System/Characters\|Characters]]
+> - [[System/Currency\|Currency]]
+> - [[System/Effects\|Effects]]
+> - [[System/Equipment Enhancements\|Equipment Enhancements]]
+> - [[System/Attribute\|Attribute]]
+> - [[System/Overcast\|Overcast]]
+> - [[System/Quest\|Quest]]
+> - [[System/Scaling\|Scaling]]
+> - [[System/Rarity\|Rarity]]
+> - [[System/Systems\|Systems]]
 > 
 { .block-language-dataview}
 
 
 > [!column|dataview 4]- [[System/Characters\|Characters]]
->  - [[Characters/The Tillery Twins\|The Tillery Twins]]
-> - [[Characters/Silverleaf Woods Characters/Rowan Thorne\|Rowan Thorne]]
-> - [[Characters/Silverleaf Woods Characters/Stumbly John\|Stumbly John]]
-> - [[Characters/Silverleaf Woods Characters/Rabbelard Strongleaf\|Rabbelard Strongleaf]]
-> - [[Characters/Silverleaf Woods Characters/Khaz'duum\|Khaz'duum]]
-> - [[Characters/Silverleaf Woods Characters/Cat Fionnar\|Cat Fionnar]]
-> - [[Characters/Silverleaf Woods Characters/Madam Seraphina Blackfeather\|Madam Seraphina Blackfeather]]
-> - [[Characters/Silverleaf Woods Characters/Jerry Jones\|Jerry Jones]]
-> - [[Characters/Silverleaf Woods Characters/Jacque D'aniels\|Jacque D'aniels]]
-> - [[Characters/Silverleaf Woods Characters/Frosty Wingtip\|Frosty Wingtip]]
-> - [[Characters/Silverleaf Woods Characters/Commander Elowen Thorne\|Commander Elowen Thorne]]
-> - [[Characters/Suerre Characters/Valeria Merrow\|Valeria Merrow]]
-> - [[Characters/Suerre Characters/The Nightingale\|The Nightingale]]
-> - [[Characters/Suerre Characters/Rat Capone\|Rat Capone]]
-> - [[Characters/Suerre Characters/Hieronym Voss\|Hieronym Voss]]
-> - [[Characters/Fluffy Brandybuck\|Fluffy Brandybuck]]
-> - [[Characters/Professor Basel Spalentor\|Professor Basel Spalentor]]
-> - [[Characters/Buffy Whiskeytail\|Buffy Whiskeytail]]
+>  - [[Characters/Suerre Characters/Valeria Merrow\|Valeria Merrow]]
 > - [[Characters/Carrie 'Carrot' Whiskeytail\|Carrie 'Carrot' Whiskeytail]]
+> - [[Characters/Buffy Whiskeytail\|Buffy Whiskeytail]]
+> - [[Characters/Professor Basel Spalentor\|Professor Basel Spalentor]]
+> - [[Characters/Fluffy Brandybuck\|Fluffy Brandybuck]]
+> - [[Characters/Suerre Characters/Hieronym Voss\|Hieronym Voss]]
+> - [[Characters/Suerre Characters/Rat Capone\|Rat Capone]]
+> - [[Characters/Suerre Characters/The Nightingale\|The Nightingale]]
+> - [[Characters/Silverleaf Woods Characters/Commander Elowen Thorne\|Commander Elowen Thorne]]
+> - [[Characters/Silverleaf Woods Characters/Frosty Wingtip\|Frosty Wingtip]]
+> - [[Characters/Silverleaf Woods Characters/Jacque D'aniels\|Jacque D'aniels]]
+> - [[Characters/Silverleaf Woods Characters/Jerry Jones\|Jerry Jones]]
+> - [[Characters/Silverleaf Woods Characters/Madam Seraphina Blackfeather\|Madam Seraphina Blackfeather]]
+> - [[Characters/Silverleaf Woods Characters/Cat Fionnar\|Cat Fionnar]]
+> - [[Characters/Silverleaf Woods Characters/Khaz'duum\|Khaz'duum]]
+> - [[Characters/Silverleaf Woods Characters/Rabbelard Strongleaf\|Rabbelard Strongleaf]]
+> - [[Characters/Silverleaf Woods Characters/Stumbly John\|Stumbly John]]
+> - [[Characters/Silverleaf Woods Characters/Rowan Thorne\|Rowan Thorne]]
+> - [[Characters/The Tillery Twins\|The Tillery Twins]]
 > 
 { .block-language-dataview}
 
 
 > [!column|dataview 4]- [[Items/Food and Drink Consumables - Items/Food and Drink Consumables\|Food and Drink Consumables]]
->  - [[Items/Food and Drink Consumables - Items/Traveler’s Blend\|Traveler’s Blend]]
-> - [[Items/Food and Drink Consumables - Items/Wild Mushroom Stew\|Wild Mushroom Stew]]
-> - [[Items/Food and Drink Consumables - Items/Stonebrew\|Stonebrew]]
-> - [[Items/Food and Drink Consumables - Items/Stonebread and Mountain Cheese\|Stonebread and Mountain Cheese]]
-> - [[Items/Food and Drink Consumables - Items/Refined Stonebrew\|Refined Stonebrew]]
-> - [[Items/Food and Drink Consumables - Items/Iron Reserve\|Iron Reserve]]
-> - [[Items/Food and Drink Consumables - Items/Roasted Wyvern Wings\|Roasted Wyvern Wings]]
-> - [[Items/Food and Drink Consumables - Items/Griffin's Elixir\|Griffin's Elixir]]
+>  - [[Items/Food and Drink Consumables - Items/Blessed Moonwine\|Blessed Moonwine]]
 > - [[Items/Food and Drink Consumables - Items/Crystal Shrimp Skewers\|Crystal Shrimp Skewers]]
-> - [[Items/Food and Drink Consumables - Items/Blessed Moonwine\|Blessed Moonwine]]
+> - [[Items/Food and Drink Consumables - Items/Griffin's Elixir\|Griffin's Elixir]]
+> - [[Items/Food and Drink Consumables - Items/Roasted Wyvern Wings\|Roasted Wyvern Wings]]
+> - [[Items/Food and Drink Consumables - Items/Iron Reserve\|Iron Reserve]]
+> - [[Items/Food and Drink Consumables - Items/Refined Stonebrew\|Refined Stonebrew]]
+> - [[Items/Food and Drink Consumables - Items/Stonebread and Mountain Cheese\|Stonebread and Mountain Cheese]]
+> - [[Items/Food and Drink Consumables - Items/Stonebrew\|Stonebrew]]
+> - [[Items/Food and Drink Consumables - Items/Wild Mushroom Stew\|Wild Mushroom Stew]]
+> - [[Items/Food and Drink Consumables - Items/Traveler’s Blend\|Traveler’s Blend]]
 > 
 { .block-language-dataview}
 
@@ -67,62 +67,62 @@
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[Locations \| Locations]]
->  - [[Locations/Primary Locations/Silverleaf Woods\|Silverleaf Woods]]
-> - [[Locations/Primary Locations/Suerré\|Suerré]]
+>  - [[Locations/Primary Locations/Keria\|Keria]]
 > - [[Locations/Primary Locations/Locations\|Locations]]
-> - [[Locations/Primary Locations/Keria\|Keria]]
+> - [[Locations/Primary Locations/Suerré\|Suerré]]
+> - [[Locations/Primary Locations/Silverleaf Woods\|Silverleaf Woods]]
 > 
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[Locations/Secondary Locations/Sublocations\|Sublocations]]
->  - [[Locations/Secondary Locations/Sublocations\|Sublocations]]
-> - [[Locations/Secondary Locations/Suereé Locations/Théâtre de Lune\|Théâtre de Lune]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Underground Orc Hideout\|Underground Orc Hideout]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Thornwatch Frontier\|Thornwatch Frontier]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Umbral Thicket\|Umbral Thicket]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/The Gilded Griffin Inn\|The Gilded Griffin Inn]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Keria Tournament Grounds\|Keria Tournament Grounds]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Glimmerbark Village\|Glimmerbark Village]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Silverleaf Rootways\|Silverleaf Rootways]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Moonshade Depths\|Moonshade Depths]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Gilded Griffin Inn Cellar\|Gilded Griffin Inn Cellar]]
+>  - [[Locations/Secondary Locations/Silverleaf Woods Locations/Elarion Glade\|Elarion Glade]]
 > - [[Locations/Secondary Locations/Silverleaf Woods Locations/First Grove\|First Grove]]
-> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Elarion Glade\|Elarion Glade]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Gilded Griffin Inn Cellar\|Gilded Griffin Inn Cellar]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Moonshade Depths\|Moonshade Depths]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Silverleaf Rootways\|Silverleaf Rootways]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Glimmerbark Village\|Glimmerbark Village]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Keria Tournament Grounds\|Keria Tournament Grounds]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/The Gilded Griffin Inn\|The Gilded Griffin Inn]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Umbral Thicket\|Umbral Thicket]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Thornwatch Frontier\|Thornwatch Frontier]]
+> - [[Locations/Secondary Locations/Silverleaf Woods Locations/Underground Orc Hideout\|Underground Orc Hideout]]
+> - [[Locations/Secondary Locations/Suereé Locations/Théâtre de Lune\|Théâtre de Lune]]
+> - [[Locations/Secondary Locations/Sublocations\|Sublocations]]
 > 
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[System/Quest\|Quests]]
->  - [[Quests/Suereé Quests/Where the Nightingale Sings\|Where the Nightingale Sings]]
-> - [[Quests/Suereé Quests/The River Knows\|The River Knows]]
-> - [[Quests/Suereé Quests/The Faceless Masquerade\|The Faceless Masquerade]]
-> - [[Quests/Suereé Quests/The Bell Tower Murders\|The Bell Tower Murders]]
-> - [[Quests/Suereé Quests/The Ash Ledger\|The Ash Ledger]]
-> - [[Quests/Silverleaf Woods Quests/The Meadow Is Where The Heart Is\|The Meadow Is Where The Heart Is]]
-> - [[Quests/Silverleaf Woods Quests/The Thorne In My Side\|The Thorne In My Side]]
+>  - [[Quests/Silverleaf Woods Quests/Roots of Iron\|Roots of Iron]]
 > - [[Quests/Silverleaf Woods Quests/Soirée in Suerré\|Soirée in Suerré]]
-> - [[Quests/Silverleaf Woods Quests/Roots of Iron\|Roots of Iron]]
+> - [[Quests/Silverleaf Woods Quests/The Thorne In My Side\|The Thorne In My Side]]
+> - [[Quests/Silverleaf Woods Quests/The Meadow Is Where The Heart Is\|The Meadow Is Where The Heart Is]]
+> - [[Quests/Suereé Quests/The Ash Ledger\|The Ash Ledger]]
+> - [[Quests/Suereé Quests/The Bell Tower Murders\|The Bell Tower Murders]]
+> - [[Quests/Suereé Quests/The Faceless Masquerade\|The Faceless Masquerade]]
+> - [[Quests/Suereé Quests/The River Knows\|The River Knows]]
+> - [[Quests/Suereé Quests/Where the Nightingale Sings\|Where the Nightingale Sings]]
 > 
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[Class/Classes\|Classes]]
->  - [[Phase Duellist\|Phase Duellist]]
-> - [[Echo Knight\|Echo Knight]]
-> - [[Class/Runesage\|Runesage]]
-> - [[Class/Mirage\|Mirage]]
-> - [[Class/Time Heretic\|Time Heretic]]
-> - [[Class/Magister\|Magister]]
-> - [[Class/Riftblade\|Riftblade]]
+>  - [[Blinkstriker\|Blinkstriker]]
 > - [[Class/Lightsmith\|Lightsmith]]
-> - [[Blinkstriker\|Blinkstriker]]
+> - [[Class/Riftblade\|Riftblade]]
+> - [[Class/Magister\|Magister]]
+> - [[Class/Time Heretic\|Time Heretic]]
+> - [[Class/Mirage\|Mirage]]
+> - [[Class/Runesage\|Runesage]]
+> - [[Echo Knight\|Echo Knight]]
+> - [[Phase Duellist\|Phase Duellist]]
 > 
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[Spell \| Spells]]
->  - [[Magic/Spell Library/Other Abilities/Treacherous Terrain\|Treacherous Terrain]]
-> - [[Magic/Spell Library/Other Abilities/Pillar of Frost\|Pillar of Frost]]
-> - [[Magic/Spell Library/Other Abilities/Shield's Up\|Shield's Up]]
+>  - [[Magic/Spell Library/Other Abilities/Jaws of the Earth\|Jaws of the Earth]]
 > - [[Magic/Spell Library/Other Abilities/New Moon\|New Moon]]
-> - [[Magic/Spell Library/Other Abilities/Jaws of the Earth\|Jaws of the Earth]]
+> - [[Magic/Spell Library/Other Abilities/Shield's Up\|Shield's Up]]
+> - [[Magic/Spell Library/Other Abilities/Pillar of Frost\|Pillar of Frost]]
+> - [[Magic/Spell Library/Other Abilities/Treacherous Terrain\|Treacherous Terrain]]
 > 
 { .block-language-dataview}
 
@@ -132,28 +132,28 @@
 { .block-language-dataview}
 
 > [!column|dataview 4]- [[System/Effects\|Effects]]
->  - [[Status Effects/Stunned\|Stunned]]
-> - [[Status Effects/Frozen\|Frozen]]
-> - [[Status Effects/Charmed\|Charmed]]
+>  - [[Status Effects/Stone Haze\|Stone Haze]]
 > - [[Status Effects/Burning\|Burning]]
-> - [[Status Effects/Stone Haze\|Stone Haze]]
+> - [[Status Effects/Charmed\|Charmed]]
+> - [[Status Effects/Frozen\|Frozen]]
+> - [[Status Effects/Stunned\|Stunned]]
 > 
 { .block-language-dataview}
 
 #### Recently Modified
 
-| File                                                               | Last modified      |
-| ------------------------------------------------------------------ | ------------------ |
-| [[Homepage\|Homepage]]                                          | 13.09.2026 - 17:06 |
-| [[Subclass\|Subclass]]                                          | 12.09.2026 - 22:54 |
-| [[Characters/Suerre Characters/Hieronym Voss\|Hieronym Voss]]   | 12.09.2026 - 22:53 |
-| [[Characters/Suerre Characters/Valeria Merrow\|Valeria Merrow]] | 12.09.2026 - 22:53 |
-| [[Echo Knight\|Echo Knight]]                                    | 12.09.2026 - 22:53 |
-| [[Phase Duellist\|Phase Duellist]]                              | 12.09.2026 - 22:53 |
-| [[Class/Riftblade\|Riftblade]]                                  | 12.09.2026 - 22:52 |
-| [[Blinkstriker\|Blinkstriker]]                                  | 12.09.2026 - 22:52 |
-| [[Infinite Reflection\|Infinite Reflection]]                    | 12.09.2026 - 22:47 |
-| [[Many Blades\|Many Blades]]                                    | 12.09.2026 - 22:47 |
+| File                                                              | Last modified      |
+| ----------------------------------------------------------------- | ------------------ |
+| [[Umbral Growth\|Umbral Growth]]                               | 13.09.2026 - 17:16 |
+| [[Through the Guard\|Through the Guard]]                       | 13.09.2026 - 17:16 |
+| [[Templates/Food and Drink Template\|Food and Drink Template]] | 13.09.2026 - 17:16 |
+| [[Templates/Quest Template\|Quest Template]]                   | 13.09.2026 - 17:16 |
+| [[Templates/Spell Template\|Spell Template]]                   | 13.09.2026 - 17:16 |
+| [[Templates/Item Template\|Item Template]]                     | 13.09.2026 - 17:16 |
+| [[Templates/Character Template\|Character Template]]           | 13.09.2026 - 17:16 |
+| [[Tests/Zone Notes\|Zone Notes]]                               | 13.09.2026 - 17:16 |
+| [[Tests/Scaling Notes\|Scaling Notes]]                         | 13.09.2026 - 17:16 |
+| [[Tests/Thornwatch Rangers Notes\|Thornwatch Rangers Notes]]   | 13.09.2026 - 17:16 |
 
 { .block-language-dataview}
 
