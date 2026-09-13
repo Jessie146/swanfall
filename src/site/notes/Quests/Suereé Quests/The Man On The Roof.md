@@ -1,0 +1,250 @@
+---
+{"dg-publish":true,"permalink":"/quests/sueree-quests/the-man-on-the-roof/","tags":["Template"],"dg-note-properties":{"tags":["Template"]}}
+---
+
+# [[Quests/Suereé Quests/The Man On The Roof\|The Man On The Roof]]
+
+> [!infobox|right wikipedia]
+> # 
+> ###### 
+> | Category | Information |
+> | ---- | ---- |
+> | Start | [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]] or [[Characters/Suerre Characters/Étienne Bellamy\|Étienne Bellamy]] |
+> | End | [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]] |  
+> | Category | [[System/Quest\|Quest]] |
+> | Location | [[Locations/Primary Locations/Suerré\|Suerré]] |
+> | Sublocation | [[Locations/Secondary Locations/Suereé Locations/The Pâtisserie du Matin\|The Pâtisserie du Matin]] |
+> | Reward | Free Pastries from [[Locations/Secondary Locations/Suereé Locations/The Pâtisserie du Matin\|The Pâtisserie du Matin]] and 1 [[Reputation/Suerré Reputation\|Suerré Reputation]]
+> ##### Notable Characters
+> | Race | Name |
+> | ---- | ---- |
+> | Human | [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]] |
+> | Human | [[Characters/Suerre Characters/Étienne Bellamy\|Étienne Bellamy]] |
+> ##### Notable Enemies
+> | Race | Name |
+> | ---- | ---- |
+> | N/A | N/A |
+
+For several nights, a mysterious man has stood upon the roof of a building overlooking [[Locations/Secondary Locations/Suereé Locations/The Pâtisserie du Matin\|The Pâtisserie du Matin]], staring down at the bakery below. While most citizens pay him little attention, the party may notice that something is unusual about the situation.
+
+The quest can be discovered in several ways. A character with a high **[[Attributes/Cut Of Your Jib (CTJ)\|Cut Of Your Jib (CTJ)]]** may notice the watcher from the street, while a character with high **[[Attributes/Moxie (MOX)\|Moxie (MOX)]]** may notice that the baker himself is behaving suspiciously.
+
+Although the watcher believes he has uncovered a criminal conspiracy, his investigation is based almost entirely on innocent coincidences. The baker is nevertheless hiding something of his own.
+
+>[!Quote |mark] [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]]
+>"He's been standing up there for five nights. Just standing. Watching. You tell me that's normal.
+
+
+> #### Contents
+> - [[Quests/Suereé Quests/The Man On The Roof#Description\|#Description]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Objectives\|#Objectives]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Timeline\|#Timeline]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Map\|#Map]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Rewards\|#Rewards]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Progress\|#Progress]]
+>- [[Quests/Suereé Quests/The Man On The Roof#Completion\|#Completion]]
+
+#### Description
+
+The party may discover the quest while walking through the streets of [[Locations/Primary Locations/Suerré\|Suerré]]. A character with sufficient [[Attributes/Cut Of Your Jib (CTJ)\|Cut Of Your Jib (CTJ)]] notices movement on a rooftop overlooking a bakery.
+
+> [!info]+ Success 
+> Something catches your eye above the street.
+> A man is standing on the roof opposite the bakery.
+> He isn't looking at the street.
+> He's watching the bakery.
+
+If the [[Attributes/Cut Of Your Jib (CTJ)\|Cut Of Your Jib (CTJ)]] check fails, the party continues down the street. A moment later, a baker emerges from the shop and approaches them.
+
+> **Marcel:** "Excuse me! You there. Could I trouble you for a moment?"
+> **Marcel:** "There's a man that's been watching my bakery from that rooftop over there. He's there every evening. Just standing there, staring at the shop. I don't know what he wants, but I'd very much like to know."
+
+> - **The Party:** "Where is he?"
+> - **The Party:** "Have you tried speaking to him?"
+> - **The Party:** **[Moxie]** "You're frightened of him. What aren't you telling us?"
+
+If the [[Attributes/Moxie (MOX)\|Moxie (MOX)]] check succeeds:
+
+> Marcel's expression tightens.
+> He's not merely annoyed by the watcher.
+> He's worried about what the man might discover.
+
+If it fails, Marcel simply points towards the rooftop.
+
+> **Marcel:** "Across the street. You can't miss him."
+
+#### The Man On The Roof
+
+The party speaks to the man on the roof.
+
+> **Étienne:** "Stop! Don't come any closer. I've been watching that bakery for five nights."
+
+> - **The Party:** "Why?"
+> - **The Party:** **[CHILDLIKE WONDER]** "Five nights? What exactly have you discovered?" **(DC 10)**
+> - **The Party:** **[CHUTZPAH]** "You're spying on a baker from a rooftop. You'd better have a good reason." **(DC 12)**
+
+If the player chooses the normal option:
+
+> **Étienne:** "He's hiding something. I know it."
+
+> - **The Party:** "What makes you think that?"
+> - **The Party:** "Then let's talk to the baker."
+> - **The Party:** **[CERTAIN JE NE SAIS QUOI]** "You don't actually believe he's a criminal. You just _want_ your theory to be true." **(DC 15)**
+
+His evidence consists of several observations:
+
+- Marcel receives large deliveries of flour every Tuesday.
+- He closes the bakery at precisely eight o'clock.
+- A woman visits him every morning.
+- Marcel frequently enters his cellar.
+- He has been seen speaking with a wealthy man.
+- He owns three identical aprons.
+
+If the **Childlike Wonder (CHI)** option is chosen:
+
+> **Étienne:** "Exactly! You've seen it too. The flour arrives every Tuesday, yet he never seems to sell enough bread to justify it. The woman comes in before opening. The wealthy man arrives after dark. And the cellar—"
+> **The Party:** "What about the cellar?"
+> **Étienne:** "I haven't managed to get inside."
+
+Étienne admits that he has never actually witnessed Marcel committing a crime.
+
+If the **Chutzpah (CHU)** option is chosen:
+
+> **Étienne:** "I knew someone would eventually take an interest."
+> **The Party:** "So what have you found?"
+> **Étienne:** "Nothing. Yet."
+> **The Party:** "You've been watching him for five nights and you've found nothing?"
+> **Étienne:** "I've found _patterns_."
+
+Étienne produces a battered notebook filled with sketches, dates and increasingly elaborate diagrams connecting Marcel's activities.
+
+If the **Certain Je Ne Sais Quoi (JNSQ)** option is chosen:
+
+> **Étienne:** "He's hiding something. I can feel it."
+> **The Party:** "But you don't think he's a criminal."
+> **Étienne:** "I... didn't say that."
+> **The Party:** "You didn't have to."
+
+Étienne admits that he has no evidence that Marcel has committed a crime. He simply believes that the baker's behaviour is suspicious.
+
+The party can then respond:
+
+> - **The Party:** "So you've been watching an innocent man for five nights."
+> - **The Party:** "What makes you think the baker is involved in anything?"
+> - **The Party:** "Let's find out what he's hiding."
+> - **The Party:** **[Childlike Wonder]** "Have you considered that he might just be a baker?" **(DC 10)**
+> - **The Party:** **[Moxie]** "You don't want to know whether he's guilty. You want to be right." **(DC 15)**
+
+If the **Childlike Wonder** check succeeds:
+
+> Étienne looks at you for a long moment.
+> **Étienne:** "That's ridiculous."
+> He looks down at his notebook.
+> "Although... the aprons are rather compelling."
+
+If the **Moxie** check succeeds:
+
+> Étienne's confidence falters.
+> For the first time, he looks less like a detective and more like a man who has spent five nights convincing himself that he has found a mystery.
+> **Étienne:** "Perhaps I may have... become somewhat invested in the theory."
+
+#### **Investigating Marcel**
+
+The party can speak to Marcel about Étienne's accusations.
+
+> **Marcel:** "The man on the roof? He's still there?"
+> - **The Party:** "He thinks you're involved in something."
+> - **The Party:** "He says you're hiding something."
+> - **The Party:** "Why does he think you're suspicious?"
+
+Marcel is initially confused by the accusation.
+
+If asked about the flour deliveries:
+> **Marcel:** "I'm a baker. I buy flour."
+
+If asked about the woman:
+> **Marcel:** "My sister."
+
+If asked about the wealthy man:
+> **Marcel:** "Monsieur Dubois. He owns the mill. He sells me flour."
+
+If asked about the cellar:
+> **Marcel:** "It's my cellar."
+
+If asked about closing at eight:
+> **Marcel:** "The bakery closes at eight."
+
+If asked about the three aprons:
+> **Marcel:** "They're aprons. I have three."
+
+#### The Truth
+
+Eventually, the party has little choice but to conclude that **Marcel is simply a baker**. There is no hidden conspiracy. There is no criminal operation. There is no secret meeting. There is no mysterious purpose behind the three aprons. Étienne has simply mistaken ordinary behaviour for evidence of wrongdoing.
+
+The party can return to him with their findings.
+
+> **The Party:** "We've investigated Marcel."
+> **Étienne:** "And?"
+> **The Party:** "He's a baker."
+
+Étienne is silent.
+
+> **Étienne:** "That's what he wants you to think."
+> **The Party:** "He sells bread."
+> **Étienne:** "Exactly."
+
+The party can respond:
+
+> - **The Party:** "You're seeing a conspiracy because you started looking for one."
+> - **The Party:** "You've spent five nights watching an innocent baker."
+> - **The Party:** **[Moxie]** "A good detective knows when the evidence doesn't fit the theory." **(DC 10)**
+> - **The Party:** **[Childlike Wonder]** "Perhaps the three aprons are the real mystery." **(DC 5)**
+
+If the **Moxie** check succeeds, Étienne finally accepts that his investigation has been flawed.
+
+> **Étienne:** "Perhaps... I may have been looking at this from the wrong angle."
+
+He closes his notebook.
+
+> "I'll apologise to the baker."
+
+If the **Childlike Wonder** option is chosen, Étienne becomes concerned about the aprons all over again.
+
+> **Étienne:** "You joke, but three is an unusual number."
+
+The party can leave him to his investigation.
+
+#### Objectives
+
+
+
+> [!timeline|t-l c-black] <span style="color:rgb(193,67,67)">Discover Who is Watching [[Locations/Secondary Locations/Suereé Locations/The Pâtisserie du Matin\|The Pâtisserie du Matin]]</span>
+
+
+> [!timeline|t-r c-black bg-white]+ <span style="color:rgb(193,67,67)">Investigate [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]]</span>
+
+> [!timeline|t-l c-black] <span style="color:rgb(193,67,67)">Discover [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]]'s Secret</span>
+
+> [!timeline|t-r c-black] <span style="color:rgb(193,67,67)">Resolve the Situation</span>
+
+
+#### Timeline
+
+<div class="excalidraw-svg"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2269.75 190" width="2269.75" height="190" class="excalidraw-svg" style="max-width: 100%; height: auto; width: 1500px;"><!-- svg-source:excalidraw --><metadata/><defs><style class="style-fonts">      @font-face { font-family: Excalifont; src: url(data:font/woff2;base64,d09GMgABAAAAABsoAA4AAAAALngAABrTAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbiF4cgW4GYACBHBEICsdktRMLWAABNgIkA4EsBCAFgxgHIBvcIyMDpURWjeyvErghA3sDnREjQmm9WhRgOFQ8Jd7mN2E85vAZOx4tYxxbD08a4uf293rN1tBLIpdELooeGYM2cAyjgjAqAKsw0d9gY2JEfyX62Dv33QfJ4ND4agzDeLoitRkXF6WiXIyJkFGtnM35teRGzK7JwUAtvt7OqMmHK1UNaHHz3d4dgoIDQZCUnUXJOXVMDpXe9Re92dItkKUMECChNDYVsnMAcB+K+u/VWe+86+w2cITZu8/UISSb335uWrnVtDMaQ8KyHVpO9oBIsvsfwL+///1+Lf9F40qIaCRUD5GUl7fG2YvZW/BkIqF4FwvJ3BJDIhRCo0SmE6nVEiVl3vvOKjOBWibOS6mlMg13f8kBIADQAACMgxF8QQIEgu5vnEIuHjqdpWQD96NRzkHA/cxZPRC4X9uHNgB3aC61eOS4OnE2ABIwBhQAPgMUc7hJ8V8pgDwhY7EJgN8vA8f6fb/w3zNdR/wTO9+f1inN+vtcrrbdED8vGfL9Zwy8f5d3MGqldpvTwOuBo/MRdAnIOygtfEDjmZEfPyj9Cy6l4aUZKpk3bjXcT1aTVuOtWdh3AKDxjxPCR0JGQcPAxMLGwcUn4MqdJx9CIjK+vzAnSAO46DMAzAQylQDAj0Lx4Mgx3D1n4fkCBThjMCo2JhoOOovRgHyIU8DnQGIBJUwzhoQBmORKlRMlAwyUuQDMUAaMJkg1VSlFWEQZFHx9UWsH3DtnVUM9BPEJMiD5aOH8Uc6UYpMEDcIPuT9on0Dg8CFSQgqx4QMBMQPIBMrYlV0WIeWSj6rO/R7B5bAA8Lk7XhqLicEhV9lzB0dWw9RosqsZhpTZyQdAsuoVtKP0PbSGjGlcWNJAFxB6hgz/mw2wVUAN7/uiNd7QfTkklFv1yyCugUxJUDO5N+YVGBqbUYpnYJYkTbYa9RyGG+XZ798lRCnE0lGDJ0qVwa7OQE5KDm9Uvx4XnHfWaV1O6NSh3R67aEGAoNfHgIJSITdvDEB9D9CfaXeSJkFI8JSQo9p3h5U7PDGANPcKox5yZ6HJVinRCWJyeHo+Jym1MqOqJEI1JCNdxfUVaGIZAdwsg7tniizF4OYd6KLRFiVbEpU+FL4PTxjKsNgtGEmkyUe8P+j/N1jSyYeS3lU2KDONvcBpsZ8IVHI4p9HY2wgLuqZXu3TKbsIWbvFe/Hxw9OqM9Ht+JAaA8Cdo6aZugt6U1y9e/Xz3rgNFMjrOwsRMX7D8Izo9T8CGl6mafBSpIHuCbK+SXMPJS2OKqF/kSn31woEo3qNPTZP34i0t6ydbj+BSFSPd1jmaGBsqpTv7OoWgIc2u3Iu1L1eAja58+SWp58Uy+m/ydfVu1VUJoP9Yj3zlpvwB30PeigcpOs+JAMYNZZouKUWKv/WZxuy7Nd3NSvIbUV3TdV251OF9r3kWaQMvJbLnoXzvL2v4BfRfkqgjVTVHfFkJVZ3ktCCJi9vbQOyv5LtHWzdNl9nSznPFnyIzrQYdsYHTNgymE448CAzDwKQDnoojU446ziYS/4S1EL/skNZOlFYLE5gngMaYrMuMpO0uGWoZguvfet26n2Umy7TuylbLNE2S8iXfonaepG+VqlsYJFXUsfVtbzOpGs7C9+HFJSWn9F1WkcOYYgH2zWUIAnrXLC/W17ORO2TxT5lduJAN5FzwxfL7HgTUY49mEkmEr4uDgbBLqopUuwciorptkD0/0ufBoEXCwAxL8hbTExhfOk9JZx4XuOeN7t2zbPQhU7iGAMOOSDZgAePmgD0BoeyIQ4C/JKThXIT7oyYTgAnoJCfXwa2XTdoZnMTa4siJVkZjphQFJUjOExAkSQfUnpapXkY5phn2OLQsA3vJgoi+r+utliBzEk6iIHWubfpw2paEgYsxBEZgYLJBVyW8h8Ki4Nb1mz9u0R0dUb5JpoMHeEsl2HiAK5SWIVyLlxR/iq91m8pQUYIyBWNrcoFnAMXrQp5Fb0m9ZEc82J9JucCIJsA2SRdnSZTJKpN9EgnBcgLj4Qt1tfiMvGPAwA/SP6QnImV2ldlSocTLhSLASUciA1eaAjOjOw3lxRQMQWc+Txw+kSzSS0xRTcrdo9ykPMXzPHgOF0J6o2x0EBkO7qT9NIPJ+cQOpNaKn7OpgvpzykjLXooiAaHDUZNqJ7BZ0HnVdReNfEQ4b09DYE+Ixsb/W9U7FP2SleCmX8DYMq82P5FpNthlQy+ZB3funkWgWrQQJKJwFrD1haPDX0A5tEJrsTGiukRNKvFQVqSXmC2P7tTzx64gC+jYr3g/Gthn1jaQ5MKVaVZ6QpESeZTLl8vwfu2sNnuWf0CaB1ilCcPhDFKKO33BNlnIw3pBUYPjkNa2lfizOsG3y4Dfp5/0a00XHArsSF8H3UvAmVSSVK1UKsCdmUhiwgZ8bCglF/gopmeLVDx/HVJWvSpHGclpt1uKDsZnYQ1xHG6Fnyl//hz9+mNybG5el21B+T7oBEzJCc+n2OJWXzsZvvfVRxQjfkb9uaasSD5qIJwbfpBUSnEtmNdCCkGgAWsQe1snR8eoQ9rKyZ7gvp06IcBffxLb7+BphIOo6aykTNd0m7TH9j5lehVBjQIDKgmmGqV4DbO99YjlmqQa1Y0k0B5ub2b9KSvUx5f518aHJ2O3KMeYbCtmB9/Rg0LQ305Eg7PRuw7cXqZ94XJUMFQU41f5VJD3UMdoPDHgIePbnuy1Vkl+WG/0Xl+8ysrZRqcYOmIA0jdJl6hVWPw4JMYdHN5OUq1FHU58tKjJkiJRppQKg8tUqh1pHeE5b4rGjI812sDh/oZ4UwKcfW9PH3WKQ0BB5q/Ur5XM7Ra1dxDQgrEt5CfDQ3a14FqGb6v8ILmmBXmnHnADe3N5dyW7mUnOpfdOmomhnBNERvD0Kcr2lPhOXa5Hhb1NNXAbILmlSJ6NYpVX6Gq30avMzvIabS7xj7EQ4dgQ5FWXpMPSJ7tJ1eT/iSLu1ymyFxeXkV1B5py9TttKQvfHZH49k/OK/hIZmJ9CQR5RvO82Ldpjs7k8yg6eUJZlGQYK52FBpPsKzhAUL6f7bUroMMUjbH8i6aQSb6lkGbBJTOdpHP7QpSlRWRaJlLhMkphwZrAYtzmG1YtM4y0rROC5ABdfqw+PQqR/uWWRtAxPquORnFSX+IKLidjOLeT1QfY8nif5Pd2MJVjNjos0jYdck2qSqMVJd5YfscEhOxAjKAoDN4nrm0SEdqIjEWBtISuXL8UIOnhfsP9mdiZfVJPDzqxQNrRlcasWTEzgUESfpLJyJ81ZPhIwiiIof1bGSAfdJoovuQoM4FhlkSQvqEml6wry8jknYpD/ohQz6suK92MMUsiJNscbS5TjmM5GOVgwJCuaYoILy+jX7vwuLA60VJNebFxEkF62PQPY8981gLGscl2zS3JbggaM4JyI9gRHazh5gLppmiQnP2sWU4Uy+n03s1QX/hzayY1FdsEVCWcwFMeP4GhB03fXzlXD0+fLyaOds1dv3p1POFEeC7JN3EXh9BxwHvoSObqtv69hu/JqFzeqxBoHmAxONFvs0dtrWlkJ3iPQ2CNpRl7IMC7pnv25YAiePuuD6xTkG33h+4A2Pp8WrRCNW3qxO7ZbUs8mlbwYD0REg+yRr3rRaop+evZmrTQrTyRK8ansffj++8u+sU3TyeHyj5dBHKZAYwDVX2CssiHt68M8+nILe2Oy3SbKNZ+Sh4HjgrrmLolmXcYzX1IHOaa8glo6UXnO9V+nwEAwVPCRnlBsDrER4EmfgPaTtL9TwJo0yfTVkTwTXekqNW1wpvGOZHFf6HQwUd6zlqzYo/HgzhCrhORAe/B1ayP0BoSDbLX+aVXX+dJGI2aD16QtSxfqUXOOKT0EeCJioV8Ld1QOY2/prz6aPcuiv9BeTS410ObQQDs5hrpui0Hu/9SVcR3u2fIX7w/NQi1bQ6j1ZSzpMPb8tknz6dZC7Zm/jzTEBARRdZGf0vguI7ju0RqmlQBPxOAUtleJi73eI2F0EGjfnzCfW3qQs/8dwQK6v6YJvFYtz5O80Q1gsv8ZRj8CBxNcRIDokeryh33Lox9yuEVXMnpRBY7PS8E6NPALGd/fYWc3EKiPhWhgT/dxLD93pzHmnI4dTRiLQiAO3jOD1FXWbBU8a+ZpZ2C6NGTJHWydHFt3taxs59InxUFO51379t9L6PdXIA3vrq0U9cny8FeyBWlOC3ubjSzOC8gIdXnDuX5UPKh2njE0aEoTadjag98mxQdndWZVfq9qwygaeStxm8hA06nIucRRKJhHWvw6j7cr3HwAXti8YSZYOOenbt7jtx7rNq+62FosgfiQDFIJM3Va9VFZmN0Z05srjLq3/9m5z9UF4+yxRwLf9L3VRY5owFoWF3lzHrsoG5rRNox5fn6rmVtJT4GdGWAW1LVZArHySgLy/fJs0rIzK+nD6g7dgllEQVE7ZdbqMrV05qwc093347GX2uv/l9wwep+OrCG2AVs9/mG1O0fW/XAoNIIu5caotDEZ3h7I67mdinZmOeQYw2P2l+qv9g5ZceWmH4xeRv/FBfxqNiLjI/PVOWAyseFlfRsHY02lZ2Rs+ZCu6SPTb1rVmfCVHLEy94FjlR6XDq+sgJnUJSWtE2uaRyyb41lTFZmT2pdheCL+of8XuKno+18MTaT1eFIW50ALjTP5y7hU2gNceaSqagtzq4Rju1Sa93nYuo+rQ0yGb9xiaDI0xNHOPQqIeheJNw5BcIX7MgbMbjkzQwZRoW2P5apUViJGyuYsv7gJ/4Q7hPqma/uq5KEgL/SbyHBLXuBYBQxAr00x4oQJ04qGOVL+OBnLJ88dhZxmdFGRecCMNlT58C5TEDbpXstZQwimgu/okiGb0kkfVcix+HwalI0bpyQW67yZviw9+0hk9opDDqMes9GZpZNa/V9LlTymoYY7aoQFEZNXuDGXR3pyq5AxSV8mwW2Z8rOZbgkzeOZhRdHfE4aSqVb4BlgExU7z7zmkz1nNqy9q1RfqPGubhDg8nInCD0Smrw0T/MZdSIdPutcZWEwAXdpnqsueU9LDohS/fPPZVLg0zabWNXi2ASQTX4hwGOacUW4jMyYmu4JhzPUpXLyEdupHEn5ykyhpeCYh7N3r4rpJMCYv5urZzkNbsm3T6f+YK+fDk5f9lZBaRS7nlJPhwV4SI0F1C3dTvHxSzmjsmy6SIeUs4lEOXvon4bFrKyhwixjbUuuWHbKVddjk0mh9xCAZKUMZrH2papI6yD4hhQeYuY6O1cHrshX/Nd9zTbyTeaVW1vkW5yDuSoRpYCKQEZosfOEgaXEUvmAbRGdBrac12wn/2fY+JxeTI3KMV+GzGASCKYvyuGHF0vda3fuc6izvUCPTcfppVbyyUjc4Zi5XOFMnoxD+JIy5E85mmSChHUpBKxXrV3sQgVbJCjWLxYaYVljPCen6j9zInuovo6JDBVxsFIeUCP6w9jz4M8n2JXI7x74shMgdCogAZKJRYCpraMoX68LDoiGyS66HLXad2AyOiC4iV5XlvEmLR61LS5ZkkXjGYgOn7cQDKnHFMvM8PFYqi3+IOLf75BUtwfP5Dj5AnS3rmBtNB8laCHRMJgZGrOGjmCUGpIR4jH81O8G1EB4Jk8LaZgSd9TEkDUy0fZkCWZLUvKG0BXbe/RTecN9xS4eW++ovFHIST7Lz43nzSXNe9MfNh3kWBEslDZeMm3s4bkVZ631fU8+RJ/Ol/4ibMqbDsy/xjxaSfbEkyV7wcq7n5lCl4dTJhwBBhR97chgBsi3t3S66V6F1Ibiopo6UGFHfWSUr4LtFHchWTvXP4VvHqOrLqZsrZLqsrwgnOOPsC/YHW897aw2r0S5F+Iv99oSxzZ9bKzR1fxpW75d0+5fGlD69yPAGeKBy+lat27ac+rxqYCzKigBjIdIVza3HdTm2phTzd47o3K8lot5InvC/X/R1su1h4wJvBat1bM676HwauQHdBGPJGqGQw/uA7LBThpH2wJajkFHMdWnK0b1BA+yq/TXJmE1iwyZJCkNyLJobni479357PlNJ7dNjk/D86fE2S5xxGRuChDUTMWaAqRq4wU1wmnjL9iIJM7Tfd4kC2v7RVwslkZ83L8kyKXIG+42Jdbm2qr3RJofGIIfuzZloAc7W7/pTiyqma6lY83S4GLJx6uS7x6r3p3pS8FMrkn2amjUJadNKP+liB1eDDjeDqhpKwzjoxVBGsdxmZKZD4xu9f08u8lxivb5XBCzJEhQTWqx6GrLWwcQcFCvUn4QG4WaRDwlaxnSsc9A20TiY9oEWe07kgf9IFPLy9YjrBPFR5jlwGn+gc/WdN+B6eg4vEAo0HQ6uErdYXdIJVv3yyL+Ki+YL0gTiItd5jHT0B8CCKraaz0jV2/g6P0Njtr6EdQ0aW21FRhLqJFTVlr/Xgda7Awq1yhKQFEouhrLG4dkevNd03oBbrCUUz7eYywxPl7mIbaL0qbd1uU+oTRzpmLUkRa0oyGV2j77Qnc2yfHy+OliaTj5pvpPzJ6sQFNO73DPeVzJvfsfNDQsm88v8nmq7RTU9CbLuLqT3U1Tvomct7/zVR2F9zMYPyh+pUOdAzKkmXEeWgM1sxcW+3d/wjDiCnD5ldBqtP8k/HiGQUQQu51elsZmlcOyht5keS9TAJqMNlPqkSrX2sDxPD22S9wsNwR382q2hwcWSeKZbvdGxXyT4khcct4i3DraQs6tVwC/3rLRmQHxGiuv7yq7GjARfNKMA4fNUg+5cZGypSJnCmdR90+CUibn3p9v4GemoPsAoKXw+Amv6pKN4wVkPVfMbedw/lbXrQAel5euMyQGjeWzDxNFbCngTJD7M5ui90EC+W8ZsV/XepjanDR6zecr2L2xskKLj3hv7WenaLGi4PFrjpKeRrL3nE8dyvlxaEh8EPlQ8DLy1vgK34SSMFOk5gUrcSgXvKiTfy0FOgYvh6dGAgerEOjrtKlUwUwwQlB6mksPJbKQI5jN+BnCwSH1LeTsEfv+DuU9APyQQdnOhI1PF54usXJ/8NZ75gVAE29QIFpy6/81LSNk82c5h2TIXaWcqR0tGQVGsPNYM1782ArqXB2Ej8gl3r2e+5/7lDR5yKYQkDoPgsIABYIvHjUrTXJ388WYaC69FcPPX00NtZ6aAl91x5YWJXqd39Yw3MfR98HA/e5U48BAEk3C4RHE12NQ94xcy0J9NGkV4aZBBkJkyX35AisHpeL2sSAKtt4JJHEH3HWicK52gUC+4w9R/gkfxPX3gCRhiodBD6IeJRYkQYhLu2UAf3Q1Gg43l0tXwh2g+raWoTLPyx4P8gEOfuBFNnLis/ut7FiZ1kQqgvJNeK3xpI05n/26Yzw4ZC1eSFVnGkaxV6atUKa/a4FsJedQmWAHCU1Rlc8BemOLGrqll64p9d1sFYpwk0kVoMjmhaY3rjMd8EqmLvLBUhMw0vBWeGRDEiIAMnVckuUMkfVrRhgHNAzu9LTnsDOQU5P5cWAduoYH1JxJ/oPUDAut36/yXJiTNTOhWmXclDB7n+anaIRcm++fyEyPNVN3aWkicHRrsc+4IK7vFSPILokKUwW87B4KVToejL/c4y89C2UICNe5QZjHZOOHtRY6JTrQN85Zb/6eNf90QL+7LVK9CyfB0ETEguqp1WfjiE7EevESrOXu37DM12WXNOMZosEDSxjBysQ4xTaAS06ENawWb5hZNLuNiZPd5Vi5tq2XcLApHNhs4+fS5UTGb+nviGEgiwoeNQGfiXJFFKl94bezQUj3/aNMMD1mdqs9x12nMFb0e+OAnxdIsDBYh7xR7jcOtvMxpWMbbfcN+XLs87cubvTnv8iP0pfcJVqNo/HjAjewpkvUekFHH+HKtuYbT18leHRU37xmiOPm0rsjaQ3X8jaF+iKNGpujr0PVs2gEm2b+YmR2CErNLJCV9j/uvarX8g22vbqppRP1YCzqMu7ur53aGtnxMRKqtUTge9NFwIlo36+mEatdMOH7MKB/hxs7pGtXWFlfIRM2h46GfOWLFJAsiDIWlsuiwzH8r/M+QvY4l1Xgm+Uf+vYtA0PINDFFYkG8kGke3vP/JLgB3CNaZwxcjS9xse0YIvCYBMSQCUtsnoEQMbgNnzDi0+sODn2LXvLWr3K8WXX6chS/tEKJdKS7EvUjdSGO2qWRuxG3dZlaVyCDX4QS40yRcJBPRSqPm74xr7b1ujhK5VV7xKBqks1Osgon+rC8TLXjQW6ScEWz5b/Sye9fyfkal16LG2HlZY109xamj4xvVr+FomcO1PX6XMiKaHC9xpwDD/syvsiZ14yWebHqAeIRhxWTRbY/JsGLOSSZHo82vYN0lEzvoDUPXR53JoyKV9OGUNxT+3L4NrOXbvQTWDwLuF6z5SW/52vUVZwr6aya28sv9mi8YIS4erOd45OMVc1ng7r59lVEINS95GvGvC3sqa7oUOFhvPAt4ARbdgnWF/Ba5b4VhyTP8gpOCSWYexebC4yVO2HkznNoKeo+tc2Ax0IT+cn3GICyrrp4VwUKgVqlUr+lPDNuyXy48SJ7mGNHXn+J3sFWjM0Y4GRWzdMPWnnXqthooNLfDZQGXHFZGuWcnp5Tn8fcwT3ujQdUrMGaO1yxUBtWO8OC59uMHLuI2H3H8toi6iST6Jabmaje617SvBRokz92dG9nfREg7srz6hz2TcZNm550qG571Evlji+M339v70R24QPGC+IONeFk39pVERZ4CAED/qECjGvT++hdjfk/9GPQ5GuWecoUnLsAR59FmE8b7Wbz7y3JQU8FUzUmgR/wciyW+5ILP04jJRgD+jJphBFkkICLeiULJr7gZyaMBQJJ7ICkNyE0BKFq+CaKprwlTIiBuPOqdb4mg8REzPCH6gTpLxIYBopJPTo8XUSsp4sM/AaBIjwPRAT1sytrMM8gRP5Ja/P/LcJMg1wDuDrtV/bRgOkIhBNQiAwAG6T2aQbhOmMEY2s0QgaaboaQqzDDxpMAn+weAyUiV7AapV2OIBkOFyFSt1jCD2Dnlqk7RRLIJc1EGhpIjj2Gho0ZxqAvldwUVlAr+U0HZcISA0m0QFi0tqVEWi7SgRFbRSckkDIo7jCJQr0V1NcFfgwKcr5DHUO9RQVYVcnkVZ8BHCL0H3RUGqUJ8ajpDdSBUY/gkpEqok7it379gAA==); }</style></defs><rect x="0" y="0" width="2269.75" height="190" fill="transparent"/><g stroke-linecap="round" transform="translate(10 65) rotate(0 114.296875 30)"><path d="M0 0 C87.09 2.2, 172.5 1.39, 228.59 0 M0 0 C83.14 1.35, 167.28 1.89, 228.59 0 M228.59 0 C228.12 23.69, 228.26 44.99, 228.59 60 M228.59 0 C228.87 13.42, 227.89 25.2, 228.59 60 M228.59 60 C169.2 60.54, 113.05 62.57, 0 60 M228.59 60 C177.67 60.82, 124.83 61.61, 0 60 M0 60 C-1.47 46.17, -0.33 31.32, 0 0 M0 60 C-0.73 43.17, -0.85 26.37, 0 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(28.7469482421875 82.5) rotate(0 95.5499267578125 12.5)"><text x="95.5499267578125" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Suerré City Streets</text></g><g stroke-linecap="round" transform="translate(489.09375 25.53125) rotate(0 69.46875 69.46875)"><path d="M70 0 C96.96 27.52, 120.17 50.6, 138.94 70 M70 0 C93.87 22.32, 116.2 46.03, 138.94 70 M138.94 70 C115 91.91, 96.03 113.9, 70 138.94 M138.94 70 C110.62 97.02, 84.67 124, 70 138.94 M70 138.94 C52.12 125.1, 38.5 108.76, 0 70 M70 138.94 C50.5 120, 31.73 100.19, 0 70 M0 70 C21.74 48, 43.9 24.53, 70 0 M0 70 C19.12 50.98, 39.04 31.62, 70 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(534.228141784668 69.765625) rotate(0 24.09998321533203 25)"><text x="24.09998321533203" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Skill</text><text x="24.09998321533203" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Test</text></g><g stroke-linecap="round" transform="translate(847.71875 120) rotate(0 106.140625 30)"><path d="M15 0 C85.66 0.97, 156.89 2.91, 197.28 0 M15 0 C62.26 0.16, 108.33 -0.72, 197.28 0 M197.28 0 C207.68 1.25, 212.6 6.92, 212.28 15 M197.28 0 C205.39 0.66, 211.22 3.92, 212.28 15 M212.28 15 C212.73 27.64, 210.55 40.02, 212.28 45 M212.28 15 C211.51 26.26, 211.83 35.86, 212.28 45 M212.28 45 C212.5 53.41, 207.58 59.54, 197.28 60 M212.28 45 C211.8 54.47, 207.16 59.59, 197.28 60 M197.28 60 C155.71 56.44, 116.12 57.33, 15 60 M197.28 60 C137.58 59.64, 76.58 58.57, 15 60 M15 60 C5.23 58.22, -0.2 55.65, 0 45 M15 60 C3.18 58.79, -0.71 56.74, 0 45 M0 45 C-0.47 40.2, -0.99 30.55, 0 15 M0 45 C0.24 37.68, 0.3 32.08, 0 15 M0 15 C1.2 4.82, 4.5 0.07, 15 0 M0 15 C-2.07 3.37, 3.05 -1.54, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(878.3894195556641 125) rotate(0 75.46995544433594 25)"><text x="75.46995544433594" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">See Man on the</text><text x="75.46995544433594" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Roof</text></g><g stroke-linecap="round" transform="translate(890.484375 10) rotate(0 63.375 30)"><path d="M15 0 C42.36 -0.55, 71.16 -0.45, 111.75 0 M15 0 C43.83 1.52, 72.42 1.85, 111.75 0 M111.75 0 C120.1 0.57, 125.83 4.06, 126.75 15 M111.75 0 C123.78 -1.8, 125.15 5.79, 126.75 15 M126.75 15 C127.55 26.76, 126.1 34.05, 126.75 45 M126.75 15 C126.67 25.36, 126.71 37.08, 126.75 45 M126.75 45 C126.34 54.54, 121.65 59.65, 111.75 60 M126.75 45 C124.99 54.5, 119.72 59.06, 111.75 60 M111.75 60 C92.74 57.85, 71.43 59.97, 15 60 M111.75 60 C76.23 58.73, 40.38 59.95, 15 60 M15 60 C3.42 58.95, -0.62 56.51, 0 45 M15 60 C2.89 58.22, 0.75 54.19, 0 45 M0 45 C-1.22 34.96, 1.29 23.5, 0 15 M0 45 C0.46 37.18, -0.39 29.58, 0 15 M0 15 C-1.8 3.58, 3.3 -1.34, 15 0 M0 15 C2.02 5.63, 6.95 -0.94, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(897.7794189453125 27.5) rotate(0 56.0799560546875 12.5)"><text x="56.0799560546875" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Test Failed</text></g><g stroke-linecap="round" transform="translate(1308.734375 27.5) rotate(0 98.1796875 30)"><path d="M15 0 C67.38 -1.92, 118.07 0.06, 181.36 0 M15 0 C74.46 -1.31, 135.11 -2.07, 181.36 0 M181.36 0 C193.13 -1.57, 194.97 5.68, 196.36 15 M181.36 0 C192.5 -1.72, 198.34 6.18, 196.36 15 M196.36 15 C197.73 24.62, 195.87 37.03, 196.36 45 M196.36 15 C196.2 21.38, 196.35 28.04, 196.36 45 M196.36 45 C194.83 54.56, 189.6 59.18, 181.36 60 M196.36 45 C194.12 55.4, 190.14 60.66, 181.36 60 M181.36 60 C146.39 58.75, 107.91 60.63, 15 60 M181.36 60 C145.43 60.01, 110.78 61.3, 15 60 M15 60 C3.16 58.45, 0.65 54.29, 0 45 M15 60 C6.66 58.6, -2.26 53.38, 0 45 M0 45 C-1.02 35.26, 1.57 24.83, 0 15 M0 45 C-0.83 35.56, -0.77 26.87, 0 15 M0 15 C1.76 5.55, 6.7 -0.82, 15 0 M0 15 C0.78 7.24, 6.06 -1.81, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1355.1140975952148 32.5) rotate(0 51.799964904785156 25)"><text x="51.799964904785156" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">The Baker</text><text x="51.799964904785156" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Appears</text></g><g stroke-linecap="round" transform="translate(1555.09375 50) rotate(0 115 45)"><path d="M22.5 0 C64.57 -0.04, 106.06 -2.01, 207.5 0 M22.5 0 C84.16 0.09, 143.36 1.21, 207.5 0 M207.5 0 C223.49 -1.5, 231.72 8.52, 230 22.5 M207.5 0 C223.96 -0.49, 227.78 9.15, 230 22.5 M230 22.5 C228.31 33.4, 229.45 43.28, 230 67.5 M230 22.5 C229.21 34.74, 229.1 47.01, 230 67.5 M230 67.5 C228.05 82.84, 221.44 90.58, 207.5 90 M230 67.5 C228.12 81.19, 223.05 91.57, 207.5 90 M207.5 90 C165.47 90.01, 127.64 88.63, 22.5 90 M207.5 90 C160.84 90.62, 116.34 91.05, 22.5 90 M22.5 90 C8.94 88.78, -1.97 81.09, 0 67.5 M22.5 90 C8.79 91.28, 0.95 81.52, 0 67.5 M0 67.5 C-0.57 51.39, -0.32 34.47, 0 22.5 M0 67.5 C1.26 57.46, 1.23 46.47, 0 22.5 M0 22.5 C0.67 9.45, 8.42 -1.58, 22.5 0 M0 22.5 C-1.59 5.36, 5.31 0.36, 22.5 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1567.4938125610352 70) rotate(0 102.59993743896484 25)"><text x="102.59993743896484" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Approach Man on the</text><text x="102.59993743896484" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Roof</text></g><g stroke-linecap="round" transform="translate(1835.09375 105) rotate(0 100.578125 30)"><path d="M15 0 C69.67 0.49, 122.26 3.18, 186.16 0 M15 0 C53.43 -1.33, 91.72 -0.07, 186.16 0 M186.16 0 C197.43 -0.42, 199.23 6.44, 201.16 15 M186.16 0 C194.67 -0.49, 201.41 3.17, 201.16 15 M201.16 15 C200.63 24.34, 200.73 32.37, 201.16 45 M201.16 15 C199.92 23.52, 200.36 31.98, 201.16 45 M201.16 45 C199.52 53.86, 196.64 61.37, 186.16 60 M201.16 45 C199.26 54.1, 196.42 57.96, 186.16 60 M186.16 60 C135.48 58.03, 88.42 56.81, 15 60 M186.16 60 C148.8 58.79, 109.02 58.69, 15 60 M15 60 C6.12 61.11, 0.82 54.15, 0 45 M15 60 C6.08 61.99, 1.38 54.79, 0 45 M0 45 C-1.43 35.05, -1.35 30.25, 0 15 M0 45 C0.08 36.15, 0.21 24.57, 0 15 M0 15 C-1.38 3.14, 3.09 0.31, 15 0 M0 15 C-2.15 4.54, 2.92 -0.14, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1871.9119186401367 110) rotate(0 63.75995635986328 25)"><text x="63.75995635986328" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Question the</text><text x="63.75995635986328" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Baker</text></g><g stroke-linecap="round" transform="translate(2086.25 65) rotate(0 86.75 30)"><path d="M15 0 C49.88 -2.66, 88.58 -0.27, 158.5 0 M15 0 C47.95 -0.95, 78.65 -0.02, 158.5 0 M158.5 0 C167.21 -0.42, 173.72 3.41, 173.5 15 M158.5 0 C168.84 -0.53, 173.02 4.47, 173.5 15 M173.5 15 C173.01 22.08, 172.63 30.74, 173.5 45 M173.5 15 C172.52 23.95, 173.58 34.72, 173.5 45 M173.5 45 C171.85 54.22, 168.73 58.22, 158.5 60 M173.5 45 C173.27 55.75, 166.68 58.79, 158.5 60 M158.5 60 C118.32 59.33, 80.54 60.12, 15 60 M158.5 60 C124.76 59.55, 90.3 58.57, 15 60 M15 60 C5.94 61.73, 1.2 54.82, 0 45 M15 60 C4.43 60.08, -2.07 53.37, 0 45 M0 45 C0.75 40.24, -0.62 32.76, 0 15 M0 45 C-0.83 32.15, -1.09 21.31, 0 15 M0 15 C-1.87 4.6, 3.19 -0.12, 15 0 M0 15 C0.75 4.94, 6.24 -0.79, 15 0" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(2096.700050354004 82.5) rotate(0 76.2999496459961 12.5)"><text x="76.2999496459961" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Quest Complete</text></g><g mask="url(#mask-vDkRyU6bCdTvUJhCofIjy)" stroke-linecap="round"><g transform="translate(244.59375 95.0061925224657) rotate(0 119.4547385568012 0.026125311690130104)"><path d="M0.6 -0.9 C20.74 -0.87, 80.22 0.5, 120.03 0.61 C159.84 0.72, 219.87 -0.29, 239.46 -0.24 M-0.55 1.24 C19.6 0.89, 79.68 -1.14, 119.62 -1.19 C159.56 -1.24, 219.5 0.95, 239.09 0.94" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(244.59375 95.0061925224657) rotate(0 119.4547385568012 0.026125311690130104)"><path d="M215.46 9.08 C219.38 8.8, 227.36 6.48, 239.09 0.94 M215.46 9.08 C221.48 6.43, 228.83 3.57, 239.09 0.94" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(244.59375 95.0061925224657) rotate(0 119.4547385568012 0.026125311690130104)"><path d="M215.75 -8.02 C219.67 -4.35, 227.57 -2.73, 239.09 0.94 M215.75 -8.02 C221.53 -5.9, 228.79 -3.99, 239.09 0.94" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask id="mask-vDkRyU6bCdTvUJhCofIjy"><rect x="0" y="0" fill="#fff" width="583.2900226820965" height="195.0215254579917"/><rect x="274.3840466918946" y="70" fill="#000" width="178.41990661621094" height="50" opacity="1"/></mask><g transform="translate(274.3840466918946 70) rotate(0 89.66444186490662 25.032317834155826)"><text x="89.20995330810547" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Notice Man on the</text><text x="89.20995330810547" y="42.62" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Roof</text></g><g mask="url(#mask-HMDZPWcSE4pklPQqha43U)" stroke-linecap="round"><g transform="translate(619.3883466738656 112.65943470037305) rotate(0 111.87470008339693 19.67389807908414)"><path d="M0.76 -0.25 C20.1 6.01, 80.28 31.97, 117.08 38.2 C153.88 44.44, 203.99 37.44, 221.56 37.15 M-0.3 -1.43 C19.31 4.45, 81.79 29.91, 119.18 36.53 C156.57 43.16, 206.78 38.25, 224.05 38.33" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(619.3883466738656 112.65943470037305) rotate(0 111.87470008339693 19.67389807908414)"><path d="M200.87 47.71 C209.34 42.02, 220.15 39.04, 224.05 38.33 M200.87 47.71 C207.47 45.05, 213.57 42.44, 224.05 38.33" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(619.3883466738656 112.65943470037305) rotate(0 111.87470008339693 19.67389807908414)"><path d="M200.26 30.62 C209.06 31.52, 220.1 35.13, 224.05 38.33 M200.26 30.62 C207.05 32.73, 213.32 34.88, 224.05 38.33" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask id="mask-HMDZPWcSE4pklPQqha43U"><rect x="0" y="0" fill="#fff" width="941.71875" height="250.06139067697669"/><rect x="640.7750473022461" y="137.5" fill="#000" width="193.6999053955078" height="25" opacity="1"/></mask><g transform="translate(640.7750473022461 137.5) rotate(0 90.48799945501645 -5.1666672205427915)"><text x="96.8499526977539" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Cut of your Jib &gt;=2</text></g><g mask="url(#mask-Gu7Dj-kiTCWlVQeXuKQIK)" stroke-linecap="round"><g transform="translate(618.842909373403 77.65734419171196) rotate(0 132.52350539040546 -20.649239361719054)"><path d="M-0.77 -0.25 C19.24 -6.83, 74.48 -32.47, 118.91 -38.61 C163.35 -44.75, 241.41 -37.35, 265.82 -37.1 M1.02 -1.43 C20.99 -7.97, 74.01 -31.83, 118.03 -37.58 C162.06 -43.33, 240.57 -36.16, 265.15 -35.93" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(618.842909373403 77.65734419171196) rotate(0 132.52350539040546 -20.649239361719054)"><path d="M241.29 -28.44 C245.67 -29.59, 249.36 -31.04, 265.15 -35.93 M241.29 -28.44 C247.87 -30.64, 253.77 -32.75, 265.15 -35.93" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(618.842909373403 77.65734419171196) rotate(0 132.52350539040546 -20.649239361719054)"><path d="M242.07 -45.53 C246.41 -43.21, 249.94 -41.17, 265.15 -35.93 M242.07 -45.53 C248.39 -42.99, 254.07 -40.37, 265.15 -35.93" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask id="mask-Gu7Dj-kiTCWlVQeXuKQIK"><rect x="0" y="0" fill="#fff" width="984.484375" height="215.3146883834239"/><rect x="643.5050506591797" y="27.5" fill="#000" width="188.23989868164062" height="25" opacity="1"/></mask><g transform="translate(643.5050506591797 27.5) rotate(0 107.86136410462879 29.508104829992902)"><text x="94.11994934082031" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Cut of your Jib &lt;=1</text></g><g stroke-linecap="round"><g transform="translate(1023.234375 40.68080526209158) rotate(0 139.1255685913423 4.339727755443434)"><path d="M0.18 -0.28 C26.97 -0.28, 114.34 -2.5, 160.88 -0.96 C207.43 0.58, 259.82 7.33, 279.44 8.98 M-1.19 -1.46 C25.41 -1.2, 113.17 -1.51, 159.81 0.43 C206.44 2.37, 258.88 8.61, 278.64 10.18" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1023.234375 40.68080526209158) rotate(0 139.1255685913423 4.339727755443434)"><path d="M254.44 16.47 C261.56 14.06, 269.08 12.42, 278.64 10.18 M254.44 16.47 C260.44 14.34, 267.18 13.14, 278.64 10.18" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1023.234375 40.68080526209158) rotate(0 139.1255685913423 4.339727755443434)"><path d="M256.06 -0.56 C262.54 2.33, 269.55 5.98, 278.64 10.18 M256.06 -0.56 C261.47 2.12, 267.75 5.73, 278.64 10.18" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(1511.09375 58.66855032502707) rotate(0 19.76710282314727 1.842215488439308)"><path d="M-0.11 -0.13 C3.03 -0.32, 12.53 -2.06, 18.97 -1.27 C25.42 -0.48, 35.3 3.65, 38.55 4.62 M0.83 -0.67 C3.9 -0.76, 12.06 -1.59, 18.53 -0.62 C25 0.35, 36.34 4.24, 39.65 5.16" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1511.09375 58.66855032502707) rotate(0 19.76710282314727 1.842215488439308)"><path d="M29.25 5.7 C32.41 5.51, 35.71 4.97, 39.65 5.16 M29.25 5.7 C31.89 5.61, 34.9 5.49, 39.65 5.16" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1511.09375 58.66855032502707) rotate(0 19.76710282314727 1.842215488439308)"><path d="M31.34 -1.11 C33.83 0.84, 36.47 2.45, 39.65 5.16 M31.34 -1.11 C33.37 0.69, 35.8 2.47, 39.65 5.16" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(1066 158.38590570122685) rotate(0 248.02357841597393 -1.5205653591447863)"><path d="M-0.06 -0.21 C19.55 1.31, 60.8 7.38, 117.45 8.85 C174.1 10.33, 282.28 8.55, 339.86 8.62 C397.44 8.7, 436.94 13.29, 462.92 9.32 C488.91 5.35, 490.33 -10.93, 495.75 -15.19 M-1.55 -1.37 C18.46 0.36, 62.39 8.41, 119.68 10.25 C176.97 12.1, 285.05 9.64, 342.2 9.69 C399.34 9.73, 436.66 14.58, 462.56 10.53 C488.46 6.48, 491.98 -10.53, 497.6 -14.61" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1066 158.38590570122685) rotate(0 248.02357841597393 -1.5205653591447863)"><path d="M491.14 4.64 C492.63 -2.26, 494.36 -7.87, 497.6 -14.61 M491.14 4.64 C492.47 -0.07, 493.86 -5.92, 497.6 -14.61" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1066 158.38590570122685) rotate(0 248.02357841597393 -1.5205653591447863)"><path d="M480.27 -4.02 C484.78 -8.5, 489.54 -11.69, 497.6 -14.61 M480.27 -4.02 C484.34 -6.51, 488.54 -10.11, 497.6 -14.61" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g mask="url(#mask-FDawJeHfxFvK4R-wHD-KC)" stroke-linecap="round"><g transform="translate(1065.8777855182932 132.1345338001021) rotate(0 119.61917678423656 -24.44886108262014)"><path d="M-0.92 -0.26 C18.67 -3.58, 77.63 -12.06, 117.43 -20.12 C157.23 -28.19, 217.71 -43.91, 237.88 -48.64 M0.8 -1.44 C20.75 -4.58, 79.7 -11.22, 119.59 -18.84 C159.48 -26.47, 220.37 -42.48, 240.16 -47.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1065.8777855182932 132.1345338001021) rotate(0 119.61917678423656 -24.44886108262014)"><path d="M219.42 -33.24 C225.12 -38.96, 230.85 -43.27, 240.16 -47.21 M219.42 -33.24 C225.26 -38.3, 232.89 -41.48, 240.16 -47.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1065.8777855182932 132.1345338001021) rotate(0 119.61917678423656 -24.44886108262014)"><path d="M215.29 -49.84 C222.18 -50.64, 229.13 -50.05, 240.16 -47.21 M215.29 -49.84 C222.35 -49.65, 231.29 -47.56, 240.16 -47.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask id="mask-FDawJeHfxFvK4R-wHD-KC"><rect x="0" y="0" fill="#fff" width="1404.9237566742413" height="280.9777285246753"/><rect x="1075.6370729370117" y="100" fill="#000" width="217.45985412597656" height="25" opacity="1"/></mask><g transform="translate(1075.6370729370117 100) rotate(0 109.85988936551813 7.685672717481964)"><text x="108.72992706298828" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Find More Information</text></g><g stroke-linecap="round"><g transform="translate(1789.4741274770622 128.9523572810604) rotate(0 19.860294513911015 3.0995707788369913)"><path d="M-0.54 0.09 C2.93 1.17, 13.71 5.26, 20.33 6.21 C26.95 7.15, 35.93 5.73, 39.17 5.77 M0.19 -0.33 C3.88 0.59, 14.73 4.23, 21.41 5.32 C28.09 6.41, 37.17 6.18, 40.26 6.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1789.4741274770622 128.9523572810604) rotate(0 19.860294513911015 3.0995707788369913)"><path d="M31.33 9.46 C33.31 8.57, 35.26 7.74, 40.26 6.21 M31.33 9.46 C33.3 8.55, 35.69 7.64, 40.26 6.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1789.4741274770622 128.9523572810604) rotate(0 19.860294513911015 3.0995707788369913)"><path d="M31.33 2.96 C33.3 3.44, 35.24 4, 40.26 6.21 M31.33 2.96 C33.31 3.63, 35.7 4.3, 40.26 6.21" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g mask="url(#mask-yJOYmqSLwU1XblNFKpQCM)" stroke-linecap="round"><g transform="translate(1789.943969414886 62.6676948053024) rotate(0 147.7463330258787 -4.083039138371831)"><path d="M-0.64 0.35 C2.75 -1.08, -5.27 -7.15, 19.17 -8.35 C43.61 -9.55, 104.16 -6.88, 146.02 -6.85 C187.87 -6.81, 245.3 -9.38, 270.32 -8.14 C295.34 -6.9, 291.87 -1.1, 296.13 0.6 M1.23 -0.52 C5.09 -1.82, -2.66 -5.8, 21.37 -7.17 C45.4 -8.55, 103.96 -8.74, 145.4 -8.76 C186.85 -8.78, 245.16 -8.81, 270.04 -7.28 C294.93 -5.75, 290.2 -0.99, 294.73 0.43" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1789.943969414886 62.6676948053024) rotate(0 147.7463330258787 -4.083039138371831)"><path d="M282.13 -3.5 C285.07 -3.71, 286.49 -1.52, 294.73 0.43 M282.13 -3.5 C286.82 -2.59, 291.31 -0.34, 294.73 0.43" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(1789.943969414886 62.6676948053024) rotate(0 147.7463330258787 -4.083039138371831)"><path d="M287.6 -10.67 C289.45 -9.47, 289.76 -5.82, 294.73 0.43 M287.6 -10.67 C290.21 -7.14, 292.7 -2.25, 294.73 0.43" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask id="mask-yJOYmqSLwU1XblNFKpQCM"><rect x="0" y="0" fill="#fff" width="2185.935682921835" height="171.99940171813952"/><rect x="1851.512057373047" y="42.50000000000003" fill="#000" width="168.31988525390625" height="25" opacity="1"/></mask><g transform="translate(1851.512057373047 42.50000000000003) rotate(0 86.17824506771774 16.084655666930544)"><text x="84.15994262695312" y="17.619999999999997" font-family="Excalifont, Xiaolai, sans-serif, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="middle" style="white-space: pre;" direction="ltr" dominant-baseline="alphabetic">Convince the Man</text></g><g stroke-linecap="round"><g transform="translate(2042.25 134.51069196293986) rotate(0 21.928489534429048 -3.5511451633359172)"><path d="M0.13 0.38 C3.3 0.47, 11.18 1.74, 18.55 0.27 C25.91 -1.2, 40.04 -7.11, 44.32 -8.45 M-0.46 0.09 C2.91 0.29, 12.14 2.23, 19.55 0.86 C26.96 -0.5, 39.88 -6.76, 44 -8.1" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(2042.25 134.51069196293986) rotate(0 21.928489534429048 -3.5511451633359172)"><path d="M34.06 0.76 C36.71 -1.74, 38.17 -3.05, 44 -8.1 M34.06 0.76 C35.9 -1.3, 38.16 -2.75, 44 -8.1" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(2042.25 134.51069196293986) rotate(0 21.928489534429048 -3.5511451633359172)"><path d="M30.69 -7.7 C34.06 -8.35, 36.25 -7.82, 44 -8.1 M30.69 -7.7 C33.24 -7.98, 36.21 -7.64, 44 -8.1" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/></svg></div>
+
+#### Map
+
+#### Rewards
+
+Free pastries from [[Locations/Secondary Locations/Suereé Locations/The Pâtisserie du Matin\|The Pâtisserie du Matin]].
+1 [[Reputation/Suerré Reputation\|Suerré Reputation]]
+
+#### Progress
+
+>[!Quote |mark] [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]]
+>"Is he still there?"
+
+#### Completion
+
+>[!Quote |mark] [[Characters/Suerre Characters/Marcel Fournier\|Marcel Fournier]]
+>"I don't know what that man thought I was doing, but I'm glad it's over. And if you ever need bread, you know where to find me."
