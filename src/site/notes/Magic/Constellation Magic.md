@@ -90,6 +90,7 @@ Practitioners often describe the Inner Ring as the “grammar” of magic. Each 
 | Transform | The _Transform_ intent allows for the alteration of a target’s properties, state, or form.                   |
 | Bind      | The _Bind_ intent enforces connection, restriction, or cohesion between targets.                             |
 | Obscure   | The _Obscure_ intent conceals, distorts, or diminishes the visibility or detectability of a target.          |
+
 The arrangement of stars within the **Inner Ring** is also significant. They are typically positioned in relation to one another according to conceptual similarity or opposition. Complementary intents, such as _Enhance_ and _Create_, are often placed near each other, allowing for smoother transitions or combined effects. In contrast, opposing intents like _Create_ and _Destroy_ are positioned across the ring, reflecting the greater difficulty and instability involved in linking them within a single construct. This spatial logic reinforces the idea that the **Inner Ring** is not merely symbolic, but structurally tied to the functioning of magic itself. 
 
 The pairings are traditionally denoted as;

@@ -144,6 +144,7 @@
 
 | File                                                              | Last modified      |
 | ----------------------------------------------------------------- | ------------------ |
+| [[Magic/Constellation Magic\|Constellation Magic]]             | 13.09.2026 - 17:22 |
 | [[Umbral Growth\|Umbral Growth]]                               | 13.09.2026 - 17:16 |
 | [[Through the Guard\|Through the Guard]]                       | 13.09.2026 - 17:16 |
 | [[Templates/Food and Drink Template\|Food and Drink Template]] | 13.09.2026 - 17:16 |
@@ -153,7 +154,6 @@
 | [[Templates/Character Template\|Character Template]]           | 13.09.2026 - 17:16 |
 | [[Tests/Zone Notes\|Zone Notes]]                               | 13.09.2026 - 17:16 |
 | [[Tests/Scaling Notes\|Scaling Notes]]                         | 13.09.2026 - 17:16 |
-| [[Tests/Thornwatch Rangers Notes\|Thornwatch Rangers Notes]]   | 13.09.2026 - 17:16 |
 
 { .block-language-dataview}
 
